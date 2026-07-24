@@ -1,0 +1,114 @@
+[
+  {
+    "device_id": "b4ebb9a38a4d2bc1",
+    "username": "G145X",
+    "password": "G165X",
+    "expirydate": "15-09-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "a4f1dd31427ed6dd",
+    "username": "F19H",
+    "password": "K62G",
+    "expirydate": "15-09-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "b19109ab6c825f92",
+    "username": "G97X",
+    "password": "5555",
+    "expirydate": "11-07-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "d3f3f1d58ab6cd98",
+    "username": "G934X",
+    "password": "G435X",
+    "expirydate": "11-07-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "b8dc1033afb9e78c",
+    "username": "G32HX",
+    "password": "G666CX",
+    "expirydate": "11-07-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "c8ahh30t2b5lk9",
+    "username": "H56G",
+    "password": "J67G",
+    "expirydate": "11-07-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "c4647393562c3cbf",
+    "username": "J08K",
+    "password": "K81G",
+    "expirydate": "11-07-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "3646fdaa5c049148",
+    "username": "A57B",
+    "password": "L6GH",
+    "expirydate": "11-07-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "c12a5d8c6d08bf5a",
+    "username": "LU8I",
+    "password": "X1S6",
+    "expirydate": "12-07-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "1be1583d51de6b9a",
+    "username": "N69B",
+    "password": "N67G",
+    "expirydate": "15-09-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "efd85a21edbc71f2",
+    "username": "I7GF",
+    "password": "B4GH",
+    "expirydate": "15-09-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "5753ab7d9ab46a15",
+    "username": "O9XP",
+    "password": "AS01",
+    "expirydate": "11-07-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "f3fcbe6038d7da29",
+    "username": "L14G",
+    "password": "AS11",
+    "expirydate": "15-09-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "ca73c066e842e853",
+    "username": "user_1234",
+    "password": "user_1234",
+    "expirydate": "15-09-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "265e56b51b28989b",
+    "username": "NiceTryDiddy123",
+    "password": "WellPlayedDrake123",
+    "expirydate": "20-07-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "7db79ed0746580b7",
+    "username": "NiceTrydiddy6969",
+    "password": "WellPlayedDrake6969",
+    "expirydate": "25-07-2026",
+    "Allowoffline": false
+  }
+]
